@@ -33,4 +33,4 @@ I am looking for an opportunity to work in the IT area, where I can develop my t
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GilvaneideMedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/GilvaneideMedeiros/blob/output/github-contribution-grid-snake.svg)
+
