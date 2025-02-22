@@ -15,9 +15,10 @@ I am looking for an opportunity to work in the IT area, where I can develop my t
 
 -->
 
-## Estou aprendendo
+## I'm learning
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+# I learned how to create local Git repository, create SSH key, make commits and sync with GitHub.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
