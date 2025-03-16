@@ -1,3 +1,21 @@
+# 👋 Olá! Bem-vindo ao meu perfil do Github.
+## Meu nome é Gilvaneide e meu apelido é Gil!
+
+- 🔭 Atualmente sou servidora pública, no cargo de Assistente de Gestão Administrativa na Prefeitura de São Paulo.
+- 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS, Python, SQLite e versionamento.
+- 👯 Estou buscando colaborar em projetos de TI.
+- 🤔 Estou buscando ajuda com metas de transição de carreira.
+- 💬 Minha trajetória profissional começou como vendedora, depois comecei a trabalhar na área administrativa. Atualmente estou estudando programação back-end.
+
+Sou uma pessoa dedicada e que gosta de aprender novas tecnologias. Aprender faz parte do meu dia a dia e os desafios me mantêm mais motivada a descobrir as melhores práticas de desenvolvimento.
+
+Estou buscando uma oportunidade de trabalhar na área de TI, onde possa desenvolver meus conhecimentos técnicos e crescer junto com a empresa e meus colegas de trabalho. Sou formada em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia Carlos Drummond de Andrade.
+- 📫 Como entrar em contato comigo: Você pode entrar em contato comigo pelo e-mail gilvaneide.m.bertaccini@gmail.com.
+- 😄 Pronomes: ela/dela.
+
+-->
+
+
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Gilvaneide and my nickname is Gil!
 
@@ -15,10 +33,10 @@ I am looking for an opportunity to work in the IT area, where I can develop my t
 
 -->
 
-## I'm learning
+## Estou aprendendo - I'm learning
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-# I learned how to create local Git repository, create SSH key, make commits and sync with GitHub.
+# Aprendi a criar um repositório Git local, criar uma chave SSH, fazer commits e sincronizar com o GitHub. - I learned how to create local Git repository, create SSH key, make commits and sync with GitHub.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
