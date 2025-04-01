@@ -21,6 +21,7 @@ Fundação Bradesco - fev/24 - abr/25 - Com certificado
 🌱 Atualmente estou cursando especialização back-end,  com Java.
 
 👯 Estou buscando colaborar em projetos de TI.
+
 🤔 Estou buscando ajuda com objetivos de transição de carreira.
 
 
@@ -72,6 +73,7 @@ Bradesco Foundation - Feb/24 - Apr/25 - With certificate
 🌱 I am currently studying a back-end specialization with Java.
 
 👯 I am looking to collaborate on IT projects.
+
 🤔 I am looking for help with career transition goals.
 
 :hearts:I am a dedicated person who enjoys learning new technologies. Learning is part of my daily life and challenges keep me more motivated to discover the best development practices.
