@@ -31,7 +31,7 @@ Fundação Bradesco - fev/24 - abr/25 - Com certificado
 
 :e-mail: Você pode entrar em contato comigo pelo e-mail: gilvaneide.m.bertaccini@gmail.com.
 
-:anchor:Link do meu projeto Portfólio: https://portifolio-gilt-five-83.vercel.app/index.html
+:anchor:Link do meu projeto site Portfólio: https://portifolio-gilt-five-83.vercel.app/index.html
 
 <a href = "mailto: gilvaneide.m.bertaccini@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
