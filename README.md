@@ -4,19 +4,26 @@
 💬 Minha trajetória profissional começou como vendedora, depois passei a atuar na área administrativa. 
 🔭 Sou servidora pública há 12 anos, atualmente no cargo de Assistente de Gestão Administrativa na Prefeitura de São Paulo. 
 
-:trophy:Sou graduada em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia Carlos Drummond de Andrade.
+:trophy: Sou graduada em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia Carlos Drummond de Andrade.
 
 
 Cursos Recentes:
 
-:trophy:Desenvolvimento Pessoal - G8 - ONE - 36h
+:trophy: Desenvolvimento Pessoal - Programa ONE - Turma G8 - 36h
 Oracle + Alura - jan/25 - mar/25 - Com certificado
 
-:trophy:Iniciante em Programação - G8 - ONE - 70h
+:trophy: Iniciante em Programação - Programa ONE - Turma G8 - 70h
 Oracle + Alura - jan/25 - mar/25 - Com certificado
 
-:trophy:Linguagem de Programação Python - 53h
+:trophy: Linguagem de Programação Python - 53h
 Fundação Bradesco - fev/24 - abr/25 - Com certificado
+
+:trophy: Empreendedorismo, Agilidade e Protagonismo na Carreira - Programa ONE - Turma G8 - 47h
+Oracle + Alura - jun/25 - Com certificado
+
+:trophy: Java e Orientação a Objetos - Programa ONE - Turma G8 - 53h
+Oracle + Alura - jul/25 - Com certificado
+
 
 🌱 Atualmente estou cursando especialização back-end,  com Java.
 
