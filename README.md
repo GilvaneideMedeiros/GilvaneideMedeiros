@@ -39,26 +39,40 @@ Oracle + Alura - ago/25 - Com certificado
 :trophy: Java e Spring Boot - Programa ONE - Turma G8 - 34h
 Oracle + Alura - ago/25 - Com certificado
 
+:trophy: Jornada de Certificação OCI Foundations Associate - Programa ONE - Turma G8 - 30h
+Oracle + Alura - nov/25 - Com certificado
+
+
 # Badges conquistadas
 
 :trophy: Praticando Lógica de Programação: Challenger Amigo Secreto - Programa ONE - Turma G8 - 8h
 Oracle + Alura - mar/25 - Com certificado
+
 <img width="500" height="500" alt="Badge-Amigo_Secreto" src="https://github.com/user-attachments/assets/678dea7e-90bb-40b9-9e08-9f673d5beebb" />
 
 
 :trophy: Praticando Java: Challenge Conversor de Moedas - Programa ONE - Turma G8 - 10h
 Oracle + Alura - mai/25 - Com certificado
+
 <img width="500" height="500" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/2b76bf1b-62ca-4489-be95-5345df5da6e1" />
 
 
 :trophy:Praticando Spring Boot: Challenge LiterAlura - Programa ONE - Turma G8 - 15h
 Oracle + Alura - jul/25 - Com certificado
+
 <img width="410" height="410" alt="Badge-Literalura" src="https://github.com/user-attachments/assets/c267acea-ad84-4cc0-a405-7d8d30379fe2" />
 
 
 :trophy: Praticando Spring Framework: Challenge Fórum Hub - Programa ONE - Turma G8 - 20h
 Oracle + Alura - ago/25 - Com certificado
+
 <img width="500" height="500" alt="Badge-Spring" src="https://github.com/user-attachments/assets/22f3073f-08fb-4e72-b1d3-eba9065f7f46" />
+
+
+:trophy: Oracle Cloud Infrastructure 2025 Certified Foundations Associate - Oracle University - Programa ONE - Turma G8
+Oracle - nov/25 - Com certificação
+
+<img width="500" height="500" alt="Badge-OCI" src="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D2CEF9D1BA82F31E9DA6057F08B0FBE1EA04AF9B5D724729D231688BED949465" />
 
 #
 
@@ -92,6 +106,7 @@ Oracle + Alura - ago/25 - Com certificado
 
 
 ## Estou aprendendo
+
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" />
