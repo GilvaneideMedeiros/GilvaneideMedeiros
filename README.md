@@ -72,7 +72,7 @@ Oracle + Alura - ago/25 - Com certificado
 :trophy: Oracle Cloud Infrastructure 2025 Certified Foundations Associate - Oracle University - Programa ONE - Turma G8
 Oracle - nov/25 - Com certificação
 
-<img width="500" height="500" alt="Badge-OCI" src="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D2CEF9D1BA82F31E9DA6057F08B0FBE1EA04AF9B5D724729D231688BED949465" />
+<img width="500" height="500" alt="Badge-OCI" src="https://github.com/GilvaneideMedeiros/GilvaneideMedeiros/blob/main/OCI25FNDCFA.jpeg" />
 
 #
 
