@@ -4,7 +4,7 @@
 💬 Minha trajetória profissional começou como vendedora, depois passei a atuar na área administrativa. 
 🔭 Sou servidora pública há 12 anos, atualmente no cargo de Assistente Administrativo de Gestão na Prefeitura de São Paulo. 
 
-:trophy: Sou graduada em Análise e Desenvolvimento de Sistemas, pela Faculdade de Tecnologia Carlos Drummond de Andrade e especialista em back-end com Java.
+:trophy: Sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas, pela Faculdade de Tecnologia Carlos Drummond de Andrade e especialista em back-end com Java.
 
 
 # Formações Recentes:
