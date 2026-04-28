@@ -1,229 +1,70 @@
-# 👋 Olá! Bem-vindo ao meu perfil do Github!
-**Meu nome é Gilvaneide e meu apelido é Gil!**
+# 👋 Olá! Sou a Gilvaneide (Gil)
 
-💬 Minha trajetória profissional começou como vendedora, depois passei a atuar na área administrativa. 
-🔭 Sou servidora pública há 12 anos, atualmente no cargo de Assistente Administrativo de Gestão na Prefeitura de São Paulo. 
+### 🌟 Porta-voz do Programa ONE (Oracle Next Education) | Desenvolvedora Back-end Java | AlumniONE
 
-:trophy: Sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas, pela Faculdade de Tecnologia Carlos Drummond de Andrade e especialista em back-end com Java, pelo programa ONE - Oracle/Alura.
-
-
-# Formações Recentes:
-
-:trophy: Desenvolvimento Pessoal - Programa ONE - Turma G8 - 36h
-Oracle + Alura - jan/25 - mar/25 - Com certificado
-
-:trophy: Iniciante em Programação - Programa ONE - Turma G8 - 70h
-Oracle + Alura - jan/25 - mar/25 - Com certificado
-
-:trophy: Linguagem de Programação Python - 53h
-Fundação Bradesco - fev/24 - abr/25 - Com certificado
-
-:trophy: Empreendedorismo, Agilidade e Protagonismo na Carreira - Programa ONE - Turma G8 - 47h
-Oracle + Alura - jun/25 - Com certificado
-
-:trophy: Java e Orientação a Objetos - Programa ONE - Turma G8 - 53h
-Oracle + Alura - jul/25 - Com certificado
-
-:trophy: Java Web: crie aplicações usando Spring Boot - Programa ONE - Turma G8 - 40h
-Oracle + Alura - jul/25 - Com certificado
-
-:trophy: Empreendedorismo, Agilidade e Protagonismo na Carreira - Programa ONE - Turma G8 - 47h
-Oracle + Alura - jul/25 - Com certificado
-
-:trophy: Java e Spring Framework - Programa ONE - Turma G8 - 108h
-Oracle + Alura - ago/25 - Com certificado
-
-:trophy: Inteligência Artificial e Java - Programa ONE - Turma G8 - 18h
-Oracle + Alura - ago/25 - Com certificado
-
-:trophy: Java e Spring Boot - Programa ONE - Turma G8 - 34h
-Oracle + Alura - ago/25 - Com certificado
-
-:trophy: Jornada de Certificação OCI Foundations Associate - Programa ONE - Turma G8 - 30h
-Oracle + Alura - nov/25 - Com certificado
-
-
-# Badges conquistadas
-
-:trophy: Praticando Lógica de Programação: Challenger Amigo Secreto - Programa ONE - Turma G8 - 8h
-Oracle + Alura - mar/25 - Com certificado
-
-<img width="500" height="500" alt="Badge-Amigo_Secreto" src="https://github.com/user-attachments/assets/678dea7e-90bb-40b9-9e08-9f673d5beebb" />
-
-
-:trophy: Praticando Java: Challenge Conversor de Moedas - Programa ONE - Turma G8 - 10h
-Oracle + Alura - mai/25 - Com certificado
-
-<img width="500" height="500" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/2b76bf1b-62ca-4489-be95-5345df5da6e1" />
-
-
-:trophy:Praticando Spring Boot: Challenge LiterAlura - Programa ONE - Turma G8 - 15h
-Oracle + Alura - jul/25 - Com certificado
-
-<img width="410" height="410" alt="Badge-Literalura" src="https://github.com/user-attachments/assets/c267acea-ad84-4cc0-a405-7d8d30379fe2" />
-
-
-:trophy: Praticando Spring Framework: Challenge Fórum Hub - Programa ONE - Turma G8 - 20h
-Oracle + Alura - ago/25 - Com certificado
-
-<img width="500" height="500" alt="Badge-Spring" src="https://github.com/user-attachments/assets/22f3073f-08fb-4e72-b1d3-eba9065f7f46" />
-
-
-:trophy: Oracle Cloud Infrastructure 2025 Certified Foundations Associate - Oracle University - Programa ONE - Turma G8
-Oracle - nov/25 - Com certificação
-
-<img width="500" height="500" alt="Badge-OCI" src="https://github.com/GilvaneideMedeiros/GilvaneideMedeiros/blob/main/OCI25FNDCFA.jpeg" />
-
-#
-
-🌱 Conclui o Programa ONE (Oracle + Alura) e agora faço parte da Comunidade Alumni ONE. Atualmente estou praticando labs do Google Skills da Google Get Certified 2026, para a certificação GCP.
-
-👯 Estou buscando colaborar em projetos de TI.
-
-🤔 Estou buscando ajuda com objetivos de transição de carreira.
-
-
-:hearts:Sou uma pessoa perseverante e apaixonada por tecnologia. Aprender faz parte do meu dia a dia e os desafios me mantêm mais motivada a descobrir as melhores práticas de desenvolvimento.
-
-:dart:Estou buscando uma oportunidade na área de TI, onde possa desenvolver meus conhecimentos técnicos e crescer junto com a empresa e meus colegas de trabalho. 
-
-:e-mail: Você pode entrar em contato comigo pelo e-mail: gilvaneide.m.bertaccini@gmail.com.
-
-:anchor:Link do meu projeto site Portfólio: https://portifolio-gilt-five-83.vercel.app/index.html
-
-<a href = "mailto: gilvaneide.m.bertaccini@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<a href="https://www.linkedin.com/in/gilvaneide-bertaccini/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<div>
-<a href="https://github.com/GilvaneideMedeiros">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneideMedeiros&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GilvaneideMedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-😄 Pronomes: ela/dela.
-
-
-## Estou aprendendo
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="100" />
+Sou uma entusiasta da tecnologia em transição de carreira, com mais de 12 anos de experiência em gestão administrativa e agora focada em construir soluções robustas no Back-end. Minha trajetória de 365 dias no Programa ONE me transformou em uma profissional resiliente, certificada e apaixonada por Cloud e Java.
 
 ---
 
-# 👋 Hello! Welcome to my Github profile!
-**My name is Gilvaneide, but you can call me Gil!**
-
-💬 My professional journey began as a salesperson, and then I moved into the administrative field.
-🔭 I have been a public servant for 12 years, currently holding the position of Administrative Management Assistant at the City Hall of São Paulo.
-
-:trophy: I hold a degree in Systems Analysis and Development from Faculdade de Tecnologia Carlos Drummond de Andrade and specialize in back-end with Java.
-
+## 🚀 Destaques e Conquistas Recentes
+- **📢 Porta-voz Oracle/Alura:** Selecionada para representar o programa ONE em campanhas oficiais devido ao meu desempenho e história de superação.
+- **🏆 Top 20 Hackathon ONE:** Entre 40 projetos, minha equipe conquistou uma posição de destaque, aplicando OCI e Java na prática.
+- **☁️ Certified OCI Foundations Associate:** Especialista certificada em fundamentos de Oracle Cloud Infrastructure.
+- **🎓 AlumniONE:** Membro ativa da comunidade de talentos graduados pela Oracle + Alura.
 
 ---
-# Recent Certifications:
 
-:trophy: Personal Development - ONE Program - Class G8 - 36h
-Oracle + Alura - Jan/25 - Mar/25 - Certified
-
-:trophy: Beginner Programmer - ONE Program - Class G8 - 70h
-Oracle + Alura - Jan/25 - Mar/25 - Certified
-
-:trophy: Python Programming Language - 53h
-Fundação Bradesco - Feb/24 - Apr/25 - Certified
-
-:trophy: Entrepreneurship, Agility, and Career Leadership - ONE Program - Class G8 - 47h
-Oracle + Alura - Jun/25 - Certified
-
-:trophy: Java and Object-Oriented Programming - ONE Program - Class G8 - 53h
-Oracle + Alura - Jul/25 - Certified
-
-:trophy: Java Web: create applications using Spring Boot - ONE Program - Class G8 - 40h
-Oracle + Alura - Jul/25 - Certified
-
-:trophy: Entrepreneurship, Agility, and Career Leadership - ONE Program - Class G8 - 47h
-Oracle + Alura - Jul/25 - Certified
-
-:trophy: Java and Spring Framework - ONE Program - Class G8 - 108h
-Oracle + Alura - Aug/25 - Certified
-
-:trophy: Artificial Intelligence and Java - ONE Program - Class G8 - 18h
-Oracle + Alura - Aug/25 - Certified
-
-:trophy: Java and Spring Boot - ONE Program - Class G8 - 34h
-Oracle + Alura - Aug/25 - Certified
+## 🚀 Projeto em Destaque: Gestão SEI
+**Solução inteligente para otimização de fluxos no Sistema Eletrônico de Informações.**
 
 ---
-# Badges earned
 
-:trophy: Practicing Programming Logic: Secret Santa Challenger - ONE Program - Class G8 - 8h
-Oracle + Alura - Mar/25 - Certified
-<img width="500" height="500" alt="Badge-Amigo_Secreto" src="https://github.com/user-attachments/assets/678dea7e-90bb-40b9-9e08-9f673d5beebb" />
+O [Gestão SEI](https://github.com/GestaoSEI) é uma solução autoral focada na otimização de processos administrativos. Desenvolvi este projeto para aplicar tecnologia na resolução de gargalos operacionais, garantindo maior agilidade e integridade na gestão da informação. Atualmente em fase de refinamento, o projeto foca em:
+- 🛠️ **Arquitetura Back-end:** Construído com Java e Spring Boot.
+- 📈 **Objetivo:** Melhorar a visibilidade e o controle de processos eletrônicos.
+- 🧠 **Diferencial:** Une conhecimento prático de gestão pública com as melhores práticas de desenvolvimento de software.
 
-
-:trophy: Practicing Java: Currency Converter Challenge - ONE Program - Class G8 - 10h
-Oracle + Alura - May/25 - Certified
-<img width="500" height="500" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/2b76bf1b-62ca-4489-be95-5345df5da6e1" />
-
-
-:trophy: Practicing Spring Boot: LiterAlura Challenge - ONE Program - Class G8 - 15h
-Oracle + Alura - Jul/25 - Certified
-<img width="410" height="410" alt="Badge-Literalura" src="https://github.com/user-attachments/assets/c267acea-ad84-4cc0-a405-7d8d30379fe2" />
-
-
-:trophy: Practicing Spring Framework: Forum Hub Challenge - ONE Program - Class G8 - 20h
-Oracle + Alura - Aug/25 - Certified
-<img width="500" height="500" alt="Badge-Spring" src="https://github.com/user-attachments/assets/22f3073f-08fb-4e72-b1d3-eba9065f7f46" />
+[Conheça o repositório da organização ↗](https://github.com/GestaoSEI)
 
 ---
-🌱 I have completed the back-end specialization with Java through the ONE Program (Oracle + Alura) and am currently taking the Tech Advanced phase of the ONE Program.
 
-👯 I am looking to collaborate on IT projects.
+## 🛠️ Tecnologias e Ferramentas
 
-🤔 I am seeking guidance with career transition goals.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-:hearts: I am a perseverant person and passionate about technology. Learning is part of my daily life, and challenges keep me motivated to discover the best development practices.
+---
 
-:dart: I am seeking an opportunity in the IT field where I can develop my technical knowledge and grow together with the company and my co-workers.
+## 🎓 Formação Acadêmica e Especializações
 
-:e-mail: You can contact me by e-mail: gilvaneide.m.bertaccini@gmail.com.
+- **Graduação:** Tecnologia em Análise e Desenvolvimento de Sistemas (Drummond).
+- **Especialização Back-end:** Programa ONE (Oracle + Alura) - Foco em Java e Spring Boot.
+- **Certificação Cloud:** Oracle Cloud Infrastructure Foundations Associate.
+- **Inteligência Artificial:** Aplicações de IA voltadas para Java.
 
-:anchor: Link to my Portfolio website project: https://portifolio-gilt-five-83.vercel.app/index.html
+---
 
-<a href = "mailto: gilvaneide.m.bertaccini@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+## 📊 Estatísticas
+![Estatísticas do GitHub de Gilvaneide](https://github-readme-stats.vercel.app/api?username=GilvaneideMedeiros&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneideMedeiros&layout=compact&theme=dracula)
 
-<a href="https://www.linkedin.com/in/gilvaneide-bertaccini/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+---
 
-<div>
-<a href="https://github.com/GilvaneideMedeiros">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneideMedeiros&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GilvaneideMedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### 🟩 Minhas Contribuições
+![Gráfico de Contribuições](https://ghchart.rshah.org/2196f3/GilvaneideMedeiros)
 
-😄 Pronouns: she/her
+---
 
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilvaneide.m.bertaccini@gmail.com)
 
-## I'm learning
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="100" />
+---
+"Transformando sonhos em realidades possíveis através da tecnologia." 🌟
 
 
 
