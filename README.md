@@ -76,7 +76,7 @@ Oracle - nov/25 - Com certificação
 
 #
 
-🌱 Conclui a especialização back-end,  com Java, pelo Programa ONE (Oracle + Alura) e atualmente estou cursando a fase Tech Advanced do Programa ONE.
+🌱 Conclui o Programa ONE (Oracle + Alura) e agora faço parte da Comunidade Alumni ONE. Atualmente estou praticando labs do Google Skills da Google Get Certified 2026, para a certificação GCP.
 
 👯 Estou buscando colaborar em projetos de TI.
 
