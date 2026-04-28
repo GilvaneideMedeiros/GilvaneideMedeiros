@@ -2,6 +2,10 @@
 
 ### 🌟 Porta-voz do Programa ONE (Oracle Next Education) | Desenvolvedora Back-end Java | AlumniONE
 
+<p align="center">
+  <img src="banner-oracle-one.webp" alt="Porta-voz Oracle Next Education" width="100%">
+</p>
+
 Sou uma entusiasta da tecnologia em transição de carreira, com mais de 12 anos de experiência em gestão administrativa e agora focada em construir soluções robustas no Back-end. Minha trajetória de 365 dias no Programa ONE me transformou em uma profissional resiliente, certificada e apaixonada por Cloud e Java.
 
 ---
