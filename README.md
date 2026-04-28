@@ -64,7 +64,7 @@ O [Gestão SEI](https://github.com/GestaoSEI) é uma solução autoral focada na
 ---
 
 ## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gilvaneide-bertaccini)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilvaneide.m.bertaccini@gmail.com)
 
 ---
