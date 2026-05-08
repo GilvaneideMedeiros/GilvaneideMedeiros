@@ -56,10 +56,6 @@ O [Gestão SEI](https://github.com/GestaoSEI) é uma solução autoral focada na
 ![Estatísticas do GitHub de Gilvaneide](https://github-readme-stats.vercel.app/api?username=GilvaneideMedeiros&show_icons=true&theme=dracula)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneideMedeiros&layout=compact&theme=dracula)
 
----
-
-### 🟩 Minhas Contribuições
-![Gráfico de Contribuições](https://ghchart.rshah.org/2196f3/GilvaneideMedeiros)
 
 ---
 
