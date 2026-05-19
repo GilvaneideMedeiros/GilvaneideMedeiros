@@ -1,6 +1,6 @@
 # 👋 Olá! Sou a Gilvaneide (Gil)
 
-### 🌟 Porta-voz do Programa ONE (Oracle Next Education) | Desenvolvedora Back-end Java | AlumniONE
+### 🌟 Porta-voz do Programa ONE (Oracle Next Education) | Desenvolvedora Back-end Java Júnior | AlumniONE
 
 <p align="center">
   <img src="banner-oracle-one.webp" alt="Porta-voz Oracle Next Education" width="100%">
