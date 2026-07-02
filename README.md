@@ -53,15 +53,24 @@ O [Gestão SEI](https://github.com/GestaoSEI) é uma solução autoral focada na
 ---
 
 ## 📊 Estatísticas
-![Estatísticas do GitHub de Gilvaneide](https://github-readme-stats.vercel.app/api?username=GilvaneideMedeiros&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneideMedeiros&layout=compact&theme=dracula)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GilvaneideMedeiros&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GilvaneideMedeiros&theme=dracula" alt="Dias consecutivos codando" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneideMedeiros&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="180" />
+</p>
 
 ---
 
 ## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvaneide-bertaccini/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilvaneide.m.bertaccini@gmail.com)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gilvaneide-bertaccini/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:gilvaneide.m.bertaccini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ---
 "Transformando sonhos em realidades possíveis através da tecnologia." 🌟
