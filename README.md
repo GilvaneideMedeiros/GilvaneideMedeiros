@@ -57,16 +57,19 @@ O [Gestão SEI](https://github.com/GestaoSEI) é uma solução autoral focada na
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GilvaneideMedeiros&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="180" />
+      <!-- Cartão de Estatísticas Alternativo (Garante 100% de funcionamento) -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GilvaneideMedeiros&theme=dracula" alt="Estatísticas do GitHub" height="180" />
     </td>
     <td align="center" valign="top">
+      <!-- Seu cartão de Streak que já está funcionando -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=GilvaneideMedeiros&theme=dracula" alt="Dias consecutivos codando" height="180" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" colspan="2">
       <br />
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=GilvaneideMedeiros&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="180" />
+      <!-- Cartão de Linguagens Alternativo -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GilvaneideMedeiros&theme=dracula" alt="Linguagens mais usadas" height="180" />
     </td>
   </tr>
 </table>
