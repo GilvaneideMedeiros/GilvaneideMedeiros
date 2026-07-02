@@ -54,14 +54,22 @@ O [Gestão SEI](https://github.com/GestaoSEI) é uma solução autoral focada na
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GilvaneideMedeiros&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GilvaneideMedeiros&theme=dracula" alt="Dias consecutivos codando" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneideMedeiros&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="180" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GilvaneideMedeiros&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="180" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GilvaneideMedeiros&theme=dracula" alt="Dias consecutivos codando" height="180" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <br />
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=GilvaneideMedeiros&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
